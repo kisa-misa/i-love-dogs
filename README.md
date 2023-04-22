@@ -1,6 +1,6 @@
 # My awesome README.md
-Всем привет! Я догадалась что это задача Question answering, для каждого example взяла 
-question = "Какой фрагмент текста соответствует размеру {}?".format(example['label']) \n
+Всем привет! Я догадалась что это задача Question answering, для каждого example взяла \
+question = "Какой фрагмент текста соответствует размеру {}?".format(example['label']) \
 context = example['text']
 
 За baseline я взяла код с 🤗 курса по Question answering https://huggingface.co/course/chapter7/7?fw=pt#postprocessing
