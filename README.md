@@ -1,5 +1,5 @@
 # My awesome README.md
-Всем привет! Я догадалась что эту задачу можно решить с помощью Question answering, для каждого example из test.json я взяла \
+Привет! Я догадалась что эта задача сводится к задаче Question answering, для каждого example из test.json я взяла \
 question = "Какой фрагмент текста соответствует размеру {}?".format(example['label']) \
 context = example['text'] 
 
